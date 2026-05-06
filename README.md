@@ -132,32 +132,11 @@ Methods: Love, M.I., Huber, W., Anders, S. (2014). Genome Biology 15(12), 550.
 This analysis: adeeba9-ux
 
 📞 Contact
-Email: adeebleads9@gmail.com
+Email: biotechcatalyst.info@gmail.com
 
 📜 License
 MIT License - see LICENSE file.
 
 Last updated: May 2026
 
-text
-
----
-
-## 🔧 One More Step - Fix the Image Filenames
-
-The problem is your image files have **spaces** in their names. GitHub doesn't like spaces.
-
-**Rename your files to remove spaces:**
-
-| Current Name | Change To |
-|--------------|-----------|
-| `Volcano Plot treated vs control.png` | `volcano_plot.png` |
-| `top 50 significant genes heatmap.png` | `heatmap.png` |
-| `fold change scatter plot.png` | `ma_plot.png` |
-
-**Then re-upload them** and update the README image lines to:
-```markdown
-![Volcano Plot](volcano_plot.png)
-![MA Plot](ma_plot.png)
-![Heatmap](heatmap.png)
 
